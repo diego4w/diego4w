@@ -3,7 +3,7 @@
 <div> 
 
   <a href="https://instagram.com/_diegofrs_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/diego-francisco-200a94242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <h1>Ola eu sou o Diego</h1>
  <p>Estudante de ciencia da computacao sempre a procura de aumentar meus conhecimentos na area de TI  </p> 
 
