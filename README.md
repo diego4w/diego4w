@@ -5,7 +5,7 @@
    <a href="https://instagram.com/_diegofrs_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
    <a href="https://www.linkedin.com/in/diego-francisco-200a94242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <h1>Ola eu sou o Diego</h1> 
-  <p>Estudante de ciencia da computacao sempre a procura de aumentar meus conhecimentos na area de TI  </p>  
+  <p>Minha jornada na área de Tecnologia da Informação começou quando eu tinha 12 anos, participando de um cursinho de robótica voltado para jovens programadores. Desde então, desenvolvi um interesse crescente pela área de desenvolvimento e fui em busca de mais conhecimento. Atualmente, estou cursando Ciência da Computação.Tenho um grande entusiasmo pela área de TI e estou ansioso para aplicar meu conhecimento e habilidades em um ambiente profissional. Estou sempre disposto a enfrentar novos desafios e aprender com as experiências que surgirem ao longo da minha carreira  </p>  
   
  <h1>Áreas de conhecimento</h1>
  
