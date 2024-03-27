@@ -42,6 +42,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/diego4w/diego4w/output/snake.svg" alt="Snake animation" />
 
 ###
