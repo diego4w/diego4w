@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+        body{
+            background-color: #212529;
+            color: #fff;
+        }
+        .dos{
+            padding: 30px;
+            font-family: "Merriweather"
+        }
+        .dos span{
+            font-size: 20px;
+        }
+        .prompt {
+            color: #fff;
+            font-weight: bold;
+        }
+        .msdos-input {
+            display: flex;
+            flex-direction: row;
+        }
+        .msdos-input-field {
+            background-color: #212529;
+            color: #fff;
+            border: none;
+            width: 80%;
+            height: 100%;
+            resize: none;
+            outline: none;
+        }
+        /* Adicione os estilos MS-DOS aqui se necessário */
+        .msdos-output {
+            margin-top: 10px;
+            font-family: 'Courier New', Courier, monospace;
+            color: #fff;
+        }
