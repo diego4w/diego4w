@@ -30,7 +30,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/diego0x20/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/invite/E87MHwu4" target="_blank">
